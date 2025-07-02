@@ -2,7 +2,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const mainContent = document.querySelector('main');
     mainContent.classList.add('entrada-brillo');
 
-    const anniversaryDate = new Date('July 1, 2025 23:48:05').getTime();
+    const anniversaryDate = new Date('July 1, 2025 23:49:30').getTime();
 
     const countdownElement = document.getElementById('countdown');
     const aniversarioMensaje = document.getElementById('aniversario-mensaje');
